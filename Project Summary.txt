@@ -1,0 +1,6 @@
+•	Hired by USC Marshall to investigate the possibility of applying optimization to improve the efficiency 
+        and transparency of the current manual method of assigning classes 
+•	Identified 3 major pain points including time - consuming scheduling methodology, inappropriate utilization of
+        classroom space and professors’ preferences not being satisfied
+•	Delivered an optimization tool prototype that intakes the readily available slots, classrooms and class 
+        information, and outputs the schedule for all classes and a summary of schedule performance using Gurobi
